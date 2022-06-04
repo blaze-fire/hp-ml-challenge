@@ -1,0 +1,12 @@
+LogisticRegression(C=0.1, random_state=42, solver='sag') 	 score: 0.9376024253011048 
+
+RidgeClassifier(alpha=0.1, random_state=42) 	 score: 0.9310172451999997 
+
+SVC(C=100, random_state=42) 	 score: 0.9695826013040096 
+
+DecisionTreeClassifier(max_depth=20, min_samples_leaf=5, random_state=42) 	 score: 0.9531400466373625 
+
+KNeighborsClassifier(metric='manhattan', n_neighbors=6, weights='distance') 	 score: 0.967666749954088 
+
+GaussianNB(var_smoothing=1.0) 	 score: 0.9199566623303359 
+
